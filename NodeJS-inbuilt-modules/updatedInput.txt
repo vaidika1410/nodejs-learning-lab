@@ -1,0 +1,2 @@
+This is the initial message
+This is the updated message

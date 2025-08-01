@@ -1,0 +1,1 @@
+{"user-login":"2","purchase-details":"4","user-logout":"2"}

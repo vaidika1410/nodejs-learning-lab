@@ -3,7 +3,7 @@ const http = require('http')
 const httpServer = http.createServer((req, res) => {
     if(req.url === '/'){
         res.setHeader('Content-Type', 'text/html')
-        res.write("Welcome to Vaidika's Website")
+        res.write("<h1>Welcome to Vaidika's Website!!<h1>")
         res.end()
     }
 

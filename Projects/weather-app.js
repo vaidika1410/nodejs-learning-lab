@@ -1,5 +1,4 @@
 import readline from 'readline/promises';
-import chalk from 'chalk';
 
 const rl = readline.createInterface({
     input: process.stdin,
